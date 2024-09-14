@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tarun161005" target="blank"><img src="https://img.shields.io/twitter/follow/tarun161005?logo=twitter&style=for-the-badge" alt="tarun161005" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
-- 🌱 I’m currently learning <b>C++,Git,GitHub</b>
+- 🌱 I’m currently learning <b>C++</b>
 
 - 💬 Ask me about **Python,HTML,CSS,C**
 
