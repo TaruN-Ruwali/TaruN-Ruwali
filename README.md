@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-ruwali&show_icons=true&locale=en" alt="tarun-ruwali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-ruwali&" alt="tarun-ruwali" /></p>
