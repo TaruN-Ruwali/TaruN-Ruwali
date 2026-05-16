@@ -20,6 +20,9 @@
 <a href="https://www.linkedin.com/in/tarun-ruwali-5504a530a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3balq%2fr5psrcoso8cu6sftgq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarun-ruwali-5504a530a?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3balq%2fr5psrcoso8cu6sftgq%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/ft._.tarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft._.tarun" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/tarun_ruwali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tarun_ruwali/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tarunruwali1610" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/tarunruwali1610" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/adroit_epic_78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" alt="https://www.codechef.com/users/adroit_epic_78" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
