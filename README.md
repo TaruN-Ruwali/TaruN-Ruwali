@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun-ruwali&label=Profile%20views&color=0e75b6&style=flat" alt="tarun-ruwali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun-ruwali" alt="tarun-ruwali" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun-ruwali&no-frame=true&margin-w=10&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="tarun-ruwali" /></a> </p>
+
+<!--will be using this link in future if want trophies-->
+<!-- <p align="left"> <a href="https://hacked-github-stat-trophies.flyn-nick.vercel.app/"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=tarun-ruwali&no-frame=true&margin-w=10&theme=darkhub" alt="tarun-ruwali" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/tarun161005" target="blank"><img src="https://img.shields.io/twitter/follow/tarun161005?logo=twitter&style=for-the-badge" alt="tarun161005" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
